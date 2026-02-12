@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Loan Eligibility Prediction
 
 ## Overview
@@ -23,4 +23,4 @@ A production-quality Machine Learning system to predict loan eligibility based o
 =======
 # Loan-Eligibility-Prediction
 ml project
->>>>>>> 0ddb99d5e4e0c6cb471d05a74425e45c183dab37
+
