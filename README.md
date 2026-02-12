@@ -1,9 +1,3 @@
-Here is a **professional, portfolio-ready README.md** tailored for your **Loan Eligibility Prediction** project.
-
-You can create a file named `README.md` inside your project root and paste this:
-
----
-
 # 🏦 Loan Eligibility Prediction System
 
 A Machine Learning project that predicts whether a loan applicant is eligible for approval based on financial and personal attributes.
